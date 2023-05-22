@@ -1,6 +1,3 @@
-
-
-
 // Name : Pallav Regmi
 // CS152 project
 // Assignment : Library
